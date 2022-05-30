@@ -1,1 +1,1 @@
-Write a script that displays a confused smiley "(Ôo)
+Write a shell script that creates a file named
